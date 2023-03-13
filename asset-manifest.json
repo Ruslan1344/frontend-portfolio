@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/frontend-portfolio/static/css/main.70f0a76d.css",
+    "main.js": "/frontend-portfolio/static/js/main.9aea0c4e.js",
+    "static/media/ketflix.png": "/frontend-portfolio/static/media/ketflix.d76ff8357f694986f38a.png",
+    "static/media/tw.png": "/frontend-portfolio/static/media/tw.232a9ac9c3a7e4aaf0e3.png",
+    "static/media/react.png": "/frontend-portfolio/static/media/react.480de8799e8f76406a05.png",
+    "static/media/html.png": "/frontend-portfolio/static/media/html.87fb017204670e30dea7.png",
+    "static/media/logo.png": "/frontend-portfolio/static/media/logo.f3ff33a9bb010287c806.png",
+    "index.html": "/frontend-portfolio/index.html",
+    "main.70f0a76d.css.map": "/frontend-portfolio/static/css/main.70f0a76d.css.map",
+    "main.9aea0c4e.js.map": "/frontend-portfolio/static/js/main.9aea0c4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70f0a76d.css",
+    "static/js/main.9aea0c4e.js"
+  ]
+}
