@@ -17,8 +17,8 @@ const Contact = () => {
         <form data-aos="zoom-in"  method='POST' action="https://getform.io/f/dd35d500-52d3-4776-ab12-7c7c47ea830b" className='flex flex-col max-w-[600px] w-full '>
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 border-pink-600 text-gray-300'>Contact</p>
-               <span className='flex items-center'>
-               <p className='text-gray-300 py-4'>// Sumbit the form bellow or shoot me an email - </p>
+               <span className=' flex items-center '>
+               <p className='text-gray-300 py-4 text-l  '>// Sumbit the form bellow or shoot me an email - </p>
                <p className='text-pink-600 px-2 '>ruslanpolischuk12@gmail.com</p>
                </span>
             </div>
