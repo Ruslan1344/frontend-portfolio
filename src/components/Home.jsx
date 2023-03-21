@@ -35,7 +35,7 @@ const Home = () => {
         </h2>
         
         <p className="text-[#8892b0] py-4 max-w-[700px] ">
-        I have been studying frontend for over 1 year,with a focus on developing responsive websites.I am currently looking for my first job as an trainee or junior frontend developer
+        I have been studying frontend for over 6 month,with a focus on developing responsive websites.I am currently looking for my first job as an trainee or junior frontend developer
         </p>
         <div>
           <Link to="work" smooth={true} duration={500}>
