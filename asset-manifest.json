@@ -1,18 +1,22 @@
 {
   "files": {
-    "main.css": "/frontend-portfolio/static/css/main.70f0a76d.css",
-    "main.js": "/frontend-portfolio/static/js/main.9aea0c4e.js",
+    "main.css": "/frontend-portfolio/static/css/main.1b421f07.css",
+    "main.js": "/frontend-portfolio/static/js/main.51b8484a.js",
+    "static/media/weatherApp.png": "/frontend-portfolio/static/media/weatherApp.bcdabf33f16429b21cfe.png",
+    "static/media/bootstrap.png": "/frontend-portfolio/static/media/bootstrap.ddffb9b184706582a05b.png",
+    "static/media/glx.png": "/frontend-portfolio/static/media/glx.854f3eddf02040f7cc34.png",
     "static/media/ketflix.png": "/frontend-portfolio/static/media/ketflix.d76ff8357f694986f38a.png",
+    "static/media/online-shop.png": "/frontend-portfolio/static/media/online-shop.6e24b6fa7a893de1aa31.png",
     "static/media/tw.png": "/frontend-portfolio/static/media/tw.232a9ac9c3a7e4aaf0e3.png",
     "static/media/react.png": "/frontend-portfolio/static/media/react.480de8799e8f76406a05.png",
     "static/media/html.png": "/frontend-portfolio/static/media/html.87fb017204670e30dea7.png",
     "static/media/logo.png": "/frontend-portfolio/static/media/logo.f3ff33a9bb010287c806.png",
     "index.html": "/frontend-portfolio/index.html",
-    "main.70f0a76d.css.map": "/frontend-portfolio/static/css/main.70f0a76d.css.map",
-    "main.9aea0c4e.js.map": "/frontend-portfolio/static/js/main.9aea0c4e.js.map"
+    "main.1b421f07.css.map": "/frontend-portfolio/static/css/main.1b421f07.css.map",
+    "main.51b8484a.js.map": "/frontend-portfolio/static/js/main.51b8484a.js.map"
   },
   "entrypoints": [
-    "static/css/main.70f0a76d.css",
-    "static/js/main.9aea0c4e.js"
+    "static/css/main.1b421f07.css",
+    "static/js/main.51b8484a.js"
   ]
 }
