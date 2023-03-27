@@ -6,7 +6,7 @@ import Js from '../assets/js.png'
 import Git from '../assets/git.png'
 import Tw from '../assets/tw.png'
 import ReactImg from '../assets/react.png'
-import SASS from '../assets/sass.png'
+import WORDPRESS from '../assets/sass.png'
 import boots from '../assets/boots.png'
 
 import Aos from 'aos'
@@ -67,8 +67,8 @@ const Skills = () => {
           </div>
 
           <div className="shadow-md  shadow-[#040C16] hover:scale-110 duration-500">
-            <img className="w-20 mx-auto" src={SASS} alt="HTML icon" />
-            <p className="my-4">Sass</p>
+            <img className="w-20 mx-auto" src={WORDPRESS} alt="HTML icon" />
+            <p className="my-4">Wordpress</p>
           </div>
 
           <div className="shadow-md  shadow-[#040C16] hover:scale-110 duration-500">
